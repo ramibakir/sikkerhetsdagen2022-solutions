@@ -1,1 +1,1 @@
-# sikkerhetsdagen2022-solutions
+# Sikkerhetsdagen 2022 @ UiA CTF Solutions
